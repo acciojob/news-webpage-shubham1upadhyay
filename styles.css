@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+header{
+	background-color:#011e29;
+	color:white;
+	text-align:center;
+}
+h3{
+	text-align:center;
+}
+.parent{
+	display:flex;
+}
+.lhs-box{
+	background-color:white;
+	padding:14px;
+	height:140px;
+}
+div{
+	margin-left:20px;
+}
+p{
+	text-align:center;
+}
+img{
+	width:200px
+}
+.middle-box{
+	background-color:white;
+	padding:14px;
+}
+.rhs-box
+{
+	float:right;
+}
